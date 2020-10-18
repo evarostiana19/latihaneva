@@ -1,6 +1,6 @@
-Nama : M.Rizky Abdillah
+Nama : Eva Rostiana
 
-Nim : 312010386
+Nim : 312010
 
 Kelas : TI 20.A2
 
@@ -150,7 +150,7 @@ $ cd latihan1``
 
 
 
-### Author : Muhammad Rizky Abdillah
+### Author : Eva rostiana
 
 ![giphy](https://user-images.githubusercontent.com/66506609/96348807-a78c4b80-10d5-11eb-938f-cc36c9485771.gif)
 
